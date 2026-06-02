@@ -1,1 +1,2 @@
-# DevOpsDocker
+# DevOps  
+Работа с docker compose
